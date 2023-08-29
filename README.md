@@ -1,0 +1,2 @@
+*World*
+_STAGE_
